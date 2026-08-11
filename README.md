@@ -26,5 +26,5 @@ Long-tail CLIP for orchid ID (5,000+ species) · StyleGAN2-ADA for _Cattleya_ ·
 
 #### 📫 Find me
 
-[musharna.github.io](https://musharna.github.io) · ORCID [0009-0003-4055-5238](https://orcid.org/0009-0003-4055-5238)
+[musharna.github.io](https://musharna.github.io) · [Hugging Face](https://huggingface.co/musharna) · ORCID [0009-0003-4055-5238](https://orcid.org/0009-0003-4055-5238)
 
