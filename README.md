@@ -2,6 +2,8 @@
 
 PhD student in **Genetics, Bioinformatics & Computational Biology** at Virginia Tech. Most of what I build is MCP servers and CLI tools for plant genomics and for doing research with LLMs.
 
+To try one: `uvx plant-genomics-mcp` starts a server, and each repo's README has the one-line config for Claude Code or any other MCP client.
+
 #### 🧬 Genomics MCP servers
 
 - **[plant-genomics-mcp](https://github.com/musharna/plant-genomics-mcp)** [![PyPI](https://img.shields.io/pypi/v/plant-genomics-mcp)](https://pypi.org/project/plant-genomics-mcp/) — 50 genomics tools over 23 backends (Ensembl Plants, Phytozome, UniProt, AlphaFold DB, JASPAR, KEGG, …).
