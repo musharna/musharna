@@ -5,16 +5,14 @@ PhD student in **Genetics, Bioinformatics & Computational Biology** at Virginia 
 #### 🌱 Research
 
 - **PhD work:** auxin / ARF genomics and RNA-seq differential expression.
-- **[orchid-clip](https://github.com/musharna/orchid-clip)**: a long-tail-aware CLIP for identifying orchids across 5,000+ species. Genus structure transfers and species identity within a genus does not, so the [demo](https://huggingface.co/spaces/musharna/orchid-genus-id) returns a calibrated genus. [Write-up](https://musharna.github.io/projects/OrchidCLIP/).
-- **[lobelia-leaf-morphometrics](https://github.com/musharna/lobelia-leaf-morphometrics)**: automated leaf-trait extraction from digitized herbarium specimens of 23 _Lobelia_ species. Undergraduate research with Andrea Case at Kent State. [Write-up](https://musharna.github.io/projects/LobeliaLeafMeasurement/).
-- **[capsicum-phylogenomics](https://github.com/musharna/capsicum-phylogenomics)**: alignment-free MinHash trees compared with concatenation and coalescent trees built from RNA-seq of seven _Capsicum_ species. Course project, 2025.
-- **[cattleya-hybridization-signal](https://github.com/musharna/cattleya-hybridization-signal)**: 170 years of registered _Cattleya_ hybrids, and whether the tendency to hybridize is phylogenetically clustered. Course project, 2025.
+- **[orchid-clip](https://github.com/musharna/orchid-clip)**: a BioCLIP 2 fine-tune for orchid identification. The [demo](https://huggingface.co/spaces/musharna/orchid-genus-id) reports a genus and names a species only when it is confident. [Write-up](https://musharna.github.io/projects/OrchidCLIP/).
+- **Undergraduate research** (Case lab, Kent State): leaf measurement and whole-plant silhouettes from _Lobelia_ herbarium specimens. [Write-up](https://musharna.github.io/projects/LobeliaSilhouettes/).
 
 #### 🧬 Tools for genomics research
 
 To try one: `uvx plant-genomics-mcp` starts a server, and each repo's README has the one-line config for Claude Code or any other MCP client.
 
-- **[plant-genomics-mcp](https://github.com/musharna/plant-genomics-mcp)** [![PyPI](https://img.shields.io/pypi/v/plant-genomics-mcp)](https://pypi.org/project/plant-genomics-mcp/) — 50 genomics tools over 23 backends (Ensembl Plants, Phytozome, UniProt, AlphaFold DB, JASPAR, KEGG, …).
+- **[plant-genomics-mcp](https://github.com/musharna/plant-genomics-mcp)** [![PyPI](https://img.shields.io/pypi/v/plant-genomics-mcp)](https://pypi.org/project/plant-genomics-mcp/) — 50+ genomics tools over 23 backends (Ensembl Plants, Phytozome, UniProt, AlphaFold DB, JASPAR, KEGG, …).
 - **[data-aggregator-mcp](https://github.com/musharna/data-aggregator-mcp)** [![PyPI](https://img.shields.io/pypi/v/data-aggregator-mcp)](https://pypi.org/project/data-aggregator-mcp/) — search and fetch datasets from Zenodo, DataCite, GEO/SRA, PubMed and OpenAIRE through one interface.
 - **[plantcv-mcp](https://github.com/musharna/plantcv-mcp)** [![PyPI](https://img.shields.io/pypi/v/plantcv-mcp)](https://pypi.org/project/plantcv-mcp/) — PlantCV trait measurements, returned together with the segmentation overlay so you can check them.
 - **[breedsim-mcp](https://github.com/musharna/breedsim-mcp)** [![PyPI](https://img.shields.io/pypi/v/breedsim-mcp)](https://pypi.org/project/breedsim-mcp/) — breeding-scheme simulation with AlphaSimR. Reports mean, sd and CI across replicates.
