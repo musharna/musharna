@@ -6,6 +6,7 @@ PhD student in **Genetics, Bioinformatics & Computational Biology** at Virginia 
 
 - **PhD work:** auxin / ARF genomics and RNA-seq differential expression.
 - **[orchid-clip](https://github.com/musharna/orchid-clip)**: a BioCLIP 2 fine-tune for orchid identification. The [demo](https://huggingface.co/spaces/musharna/orchid-genus-id) reports a genus and names a species only when it is confident. [Write-up](https://musharna.github.io/projects/OrchidCLIP/).
+- **[orchid-hybrid-visualizer](https://github.com/musharna/orchid-hybrid-visualizer)**: predicted appearances of 27 _Cattleya_ hybrids. Across 1,002 registered hybrids, a real hybrid's image embedding sits near its parents' midpoint, and further off the line between them when the parents look more different. [Demo](https://huggingface.co/spaces/musharna/orchid-hybrid-visualizer).
 - **Undergraduate research** (Case lab, Kent State): leaf measurement and whole-plant silhouettes from _Lobelia_ herbarium specimens. [Write-up](https://musharna.github.io/projects/LobeliaSilhouettes/).
 
 #### 🧬 Tools for genomics research
